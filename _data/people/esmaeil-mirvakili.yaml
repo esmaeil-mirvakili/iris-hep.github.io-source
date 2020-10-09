@@ -1,0 +1,16 @@
+name: Esmaeil Mirvakili
+shortname: esmaeil-mirvakili
+title: Ph.D Student
+active: green
+institution: University of California, Santa Cruz
+website: https://users.soe.ucsc.edu/~esmaeil
+photo: /assets/images/team/Esmaeil-Mirvakili.png
+presentations:
+  - title: "Managing Bufferbloat in Storage Systems"
+    date: 2020-10-07
+    url: https://drive.google.com/file/d/195rR8S3HsVE2UzV6JBfojtsNmFM3TBzv/view?usp=sharing
+    meeting: "CROSS Research Symposium 2020"
+    meetingurl: https://cross.ucsc.edu/2020-symposium
+    location: Santa Sruz, CA
+    focus-area: doma
+    project: skyhookdm
